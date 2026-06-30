@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: AgroMarket",
+  "description": "Dehqonlarni xaridorlar bilan vositachisiz bog\u0027laydigan qishloq xo\u0027jaligi marketplace ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
